@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2020-02-25T16:41:48.1383231+00:00",
+    "temperatureC": 21,
+    "temperatureF": 69,
+    "summary": "Sunny",
+    "zipCode":  123123
+  },
+  {
+    "date": "2020-02-25T16:41:48.1383231+00:00",
+    "temperatureC": 21,
+    "temperatureF": 69,
+    "summary": "Cold",
+    "zipCode":  124124
+  }
+]
